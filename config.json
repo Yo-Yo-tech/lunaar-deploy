@@ -1,0 +1,15 @@
+{
+  "prefix": "/service/",
+  "codec": "xor",
+  "blacklist": [],
+  "addresses": [],
+  "ssl": false,
+  "authorization": {
+    "name": "auth",
+    "value": "your-secret-key"
+  },
+  "appearance": "bright",
+  "engine": "google",
+  "port": 8080,
+  "proxy": true
+}

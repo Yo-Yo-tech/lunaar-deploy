@@ -6,7 +6,7 @@
   "ssl": false,
   "authorization": {
     "name": "auth",
-    "value": "your-secret-key"
+    "value": "nin"
   },
   "appearance": "bright",
   "engine": "google",
